@@ -1,4 +1,4 @@
-package io.motolola.learning.codewars;
+package io.motolola.learning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
